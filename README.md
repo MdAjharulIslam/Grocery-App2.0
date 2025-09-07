@@ -6,8 +6,7 @@ A full-featured grocery shopping web application built with the MERN stack (Mong
 
 ## 🚀 Live Demo
 
-[![Live Demo (https://green-cart-jet.vercel.app/)]
-
+[![Live Demo (https://grocery-app-self.vercel.app)]
 ## ✨ Features
 
 ### 🛍️ User Features
