@@ -6,7 +6,7 @@ A full-featured grocery shopping web application built with the MERN stack (Mong
 
 ## 🚀 Live Demo
 
-[![Live Demo (https://grocery-app-self.vercel.app)]
+[![Live Demo ]
 ## ✨ Features
 
 ### 🛍️ User Features
